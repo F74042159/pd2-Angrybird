@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ground.png">image/GROUND.png</file>
+        <file alias="bird.png">image/Normal_Bird_1.png</file>
+        <file>image/block_long_col.png</file>
+        <file>image/block_long_row.png</file>
+        <file>image/block_short_col.png</file>
+        <file>image/block_short_row.png</file>
+        <file>image/blueBird.png</file>
+        <file>image/egg.png</file>
+        <file>image/eggBird.png</file>
+        <file>image/pig.png</file>
+        <file>image/slingshot.png</file>
+        <file>image/yellowBird.png</file>
+        <file>image/background.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>sound/bird.mp3</file>
+        <file>sound/background.mp3</file>
+    </qresource>
+</RCC>
